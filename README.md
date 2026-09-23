@@ -15,4 +15,12 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
