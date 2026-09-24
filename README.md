@@ -36,4 +36,8 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
