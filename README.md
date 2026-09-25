@@ -12,6 +12,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
