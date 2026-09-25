@@ -40,4 +40,16 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
