@@ -19,6 +19,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
