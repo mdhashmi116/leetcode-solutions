@@ -24,6 +24,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
