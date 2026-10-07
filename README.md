@@ -26,6 +26,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -38,6 +39,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,5 +83,14 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
