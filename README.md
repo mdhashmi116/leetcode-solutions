@@ -12,6 +12,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
@@ -93,4 +95,8 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
