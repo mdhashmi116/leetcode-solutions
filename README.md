@@ -31,6 +31,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
+| [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
@@ -99,4 +100,9 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
