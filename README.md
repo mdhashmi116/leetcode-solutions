@@ -26,6 +26,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0027-remove-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
@@ -82,6 +83,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
 ## Sorting
@@ -107,4 +109,8 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
