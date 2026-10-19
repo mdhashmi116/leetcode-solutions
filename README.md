@@ -36,11 +36,13 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
