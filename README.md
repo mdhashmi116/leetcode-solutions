@@ -14,6 +14,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -48,6 +50,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
@@ -119,4 +122,12 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
