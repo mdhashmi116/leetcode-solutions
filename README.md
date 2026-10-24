@@ -31,6 +31,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
@@ -130,4 +131,8 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
