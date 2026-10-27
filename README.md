@@ -39,6 +39,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
