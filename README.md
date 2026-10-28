@@ -65,6 +65,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
