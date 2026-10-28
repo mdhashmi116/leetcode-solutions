@@ -78,6 +78,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
