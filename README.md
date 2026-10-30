@@ -39,6 +39,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0867-transpose-matrix](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -56,6 +57,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
@@ -112,6 +114,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0075-sort-colors](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
