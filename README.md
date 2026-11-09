@@ -7,6 +7,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
