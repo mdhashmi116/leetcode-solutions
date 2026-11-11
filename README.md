@@ -14,6 +14,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -32,6 +33,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 | [0045-jump-game-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0088-merge-sorted-array) |
