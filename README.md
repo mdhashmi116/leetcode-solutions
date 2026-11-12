@@ -13,6 +13,7 @@ A collection of my LeetCode solutions to improve my problem-solving and Data Str
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/mdhashmi116/leetcode-solutions/tree/master/0189-rotate-array) |
